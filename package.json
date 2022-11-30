@@ -83,5 +83,8 @@
   },
   "resolutions": {
     "react-test-renderer": "18.1.0"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }
